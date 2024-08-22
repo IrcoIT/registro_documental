@@ -1,0 +1,24 @@
+.container_buttons {
+    text-align: center;
+    
+}
+
+#boton1:focus{
+
+    background-color:rgb(218, 10, 114)
+}
+
+#boton2:focus{
+
+    background-color:rgb(218, 10, 114)
+}
+
+#boton3:focus{
+
+    background-color:rgb(218, 10, 114)
+}
+
+#boton4:focus{
+
+    background-color:rgb(218, 10, 114)
+}

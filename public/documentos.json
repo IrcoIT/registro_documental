@@ -1,0 +1,30 @@
+{ 
+   "manuales": [
+
+
+{   "id":"1",
+    "nombre": "Manual Modulo Cocina",
+    "alias":"Manual Modulo Cocina",
+    "url":"assets/Manual_Modulo_Cocina.pdf",
+    "nombreFichero":"Manual_Modulo_Cocina.pdf"
+
+},
+
+{   "id":"2",
+    "nombre": "Manual Poner Firma correo",
+    "alias":"Manual Poner Firma correo",
+    "url":"assets/Manual_Poner_Firma_correos.pdf",
+    "nombreFichero":"Manual_Poner_Firma_correos.pdf"
+
+},
+
+{   "id":"3",
+    "nombre": "Manual Portal del Empleado",
+    "alias":"Manual Portal del Empleado",
+    "url":"assets/Portal_del_Empleado_public.pdf",
+    "nombreFichero":"Portal_del_Empleado_public.pdf"
+
+}
+    ]
+    
+}
