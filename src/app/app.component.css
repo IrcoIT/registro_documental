@@ -10,7 +10,7 @@
     width: 100%;
 }
 
-@media screen and (min-width: 600px) {
+@media (min-width: 600px) {
     .container_buttons {
         width: 150%;
     }
