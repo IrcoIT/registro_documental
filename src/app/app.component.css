@@ -10,8 +10,8 @@
     width: 100%;
 }
 
-@media screen and (max-width: 780px) and (orientation: landscape) {
-    body {
-        display: none;
+@media screen and (min-width: 600px) {
+    .container_buttons {
+        width: 150%;
     }
 }
