@@ -9,3 +9,9 @@
 .container_buttons {
     width: 100%;
 }
+
+@media screen and (max-width: 780px) and (oriantation: landscape) {
+    body {
+        display: none;
+    }
+}
