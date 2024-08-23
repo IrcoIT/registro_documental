@@ -1,0 +1,60 @@
+{
+  "configVersion": 1,
+  "timestamp": 1724408256494,
+  "index": "/index.csr.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/index.html",
+        "/main-LXXDSRDL.js",
+        "/polyfills-SCHOHYNV.js",
+        "/styles-5INURTSO.css"
+      ],
+      "patterns": [
+        "https:\\/\\/cdn\\.jsdelivr\\.net\\/npm\\/bootstrap@5\\.0\\.0-beta1\\/dist\\/css\\/bootstrap\\.min\\.css"
+      ]
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/index.html": "bb18fad47c3468d33a694f44aec3d983510a6a8c",
+    "/main-LXXDSRDL.js": "8776f145ec1072938bf7a72303d8ad65b096bd91",
+    "/polyfills-SCHOHYNV.js": "d45c76c5960bab3ace7fd6d211b9579456241f8a",
+    "/styles-5INURTSO.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}

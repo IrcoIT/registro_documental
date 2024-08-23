@@ -1,0 +1,131 @@
+{     
+    
+    "documentos": [
+
+        {
+            "nombre":"manuales",
+            "items": [
+                {
+
+                    "id":"IT-ODOO-01",
+                    "nombre": "Manual Modulo Cocina",
+                    "seccion":"Odoo V12",
+                    "alias":"Manual Modulo Cocina",
+                    "fechaActualizacion":"24/12/2023",
+                    "url":"../assets/manuales/Manual_Modulo_Cocina.pdf",
+                    "nombreFichero":"Manual_Modulo_Cocina.pdf"
+
+                },
+
+                {  
+                     "id":"IT-OFFICE-01",
+                    "nombre": "Manual Poner Firma correo",
+                    "seccion":"Office",
+                    "alias":"Manual Poner Firma correo",
+                    "fechaActualizacion":"24/12/2023",
+                    "url":"../assets/manuales/Manual_Poner_Firma_correos.pdf",
+                    "nombreFichero":"Manual_Poner_Firma_correos.pdf"
+
+                },
+                
+
+                {   
+                    "id":"IT-PORTAL-01",
+                    "nombre": "Manual Portal del Empleado",
+                    "seccion":"Portal del Empleado",
+                    "alias":"Manual Portal del Empleado",
+                    "fechaActualizacion":"22/05/2024",
+                    "url":"../assets/manuales/Portal_del_Empleado.pdf",
+                    "nombreFichero":"Portal_del_Empleado.pdf"
+
+                },
+
+                {   
+                    "id":"IT-APP-01",
+                    "nombre": "Guia Rápida acceso Appetece",
+                    "seccion":"Appetece",
+                    "alias":"Acceso a Appetece",
+                    "fechaActualizacion":"22/05/2024",
+                    "url":"../assets/manuales/Guia_acceso_appetece.pdf",
+                    "nombreFichero":"Guia_acceso_appetece.pdf"
+
+                },
+                {   
+                    "id":"IT-APP-02",
+                    "nombre": "Video aprendizaje APPetece Padres",
+                    "seccion":"Appetece",
+                    "alias":"Video Appetece para padres",
+                    "fechaActualizacion":"10/07/2024",
+                    "url":"https://youtu.be/FIxRWfizqWw",
+                    "nombreFichero":"Video Appetece Padres"
+
+                }
+            ] 
+                 
+        },
+
+        {
+        
+             "nombre":"registros_it",
+             "items" : [
+
+                {
+
+                "id":"IT-REG-01",
+                "nombre": "Registro Autorizaciones",
+                "seccion":"Registros IT",
+                "alias":"Registro Autorizaciones recursos IT",
+                "fechaActualizacion":"22/05/2024",
+                "url":"../assets/registros/IT/Registro_de_Autorizaciones.pdf",
+                "nombreFichero":"Registro_de_Autorizaciones.pdf"
+                },
+
+                {
+
+                    "id":"IT-REG-02",
+                    "nombre": "Registro de E/S soportes IT",
+                    "seccion":"Registros IT",
+                    "alias":"Registro E/S, USB, DISCOS, ETC",
+                    "fechaActualizacion":"22/05/2024",
+                    "url":"../assets/registros/IT/Registro_de_Entrada_Salidas_Soportes.pdf",
+                    "nombreFichero":"Registro_de_Entrada_Salidas_Soportes.pdf"
+                },
+
+                {
+
+                    "id":"IT-REG-03",
+                    "nombre": "Registro Ejercicio Derechos Otorgados por la normativa GRPD",
+                    "seccion":"Registros IT",
+                    "alias":"Derechos Otorgados a empleados",
+                    "fechaActualizacion":"22/05/2024",
+                    "url":"../assets/registros/IT/Registro_Ejercicio_Derechos_Otorgados_Datos.pdf",
+                    "nombreFichero":"Registro_Ejercicio_Derechos_Otorgados_Datos.pdf"
+                },
+
+                {
+
+                    "id":"IT-REG-04",
+                    "nombre": "Registro Encargados DE tratamiento",
+                    "seccion":"Registros IT",
+                    "alias":"Registro tratamiento DATOS PROVEEDORES",
+                    "fechaActualizacion":"22/05/2024",
+                    "url":"../assets/registros/IT/Registro_Encargados_Tratamiento.pdf",
+                    "nombreFichero":"Registro_Encargados_Tratamiento.pdf"
+                },
+                {
+
+                    "id":"IT-REG-05",
+                    "nombre": "Registro de Violacion de Seguridad",
+                    "seccion":"Registros IT",
+                    "alias":"Registro Violacion de seguridad de datos",
+                    "fechaActualizacion":"22/05/2024",
+                    "url":"../assets/registros/IT/Registro_Violacion_de_Seguridad.pdf",
+                    "nombreFichero":"Registro_Violacion_de_Seguridad.pdf"
+                }
+
+             ]
+
+        }
+
+    ]
+}

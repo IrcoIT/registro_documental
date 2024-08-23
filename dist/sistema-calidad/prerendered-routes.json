@@ -1,0 +1,9 @@
+{
+  "routes": [
+    "/",
+    "/instrucciones",
+    "/manuales",
+    "/registros",
+    "/registros-it"
+  ]
+}

@@ -27,7 +27,7 @@
                 "output":"/assets"
               
                 
-              }  {
+              },  {
                 "glob": "favicon.ico",
                 "input": "src/",
                 "output": "/"
@@ -57,7 +57,8 @@
                   "maximumError": "4kB"
                 }
               ],
-              "outputHashing": "all"
+              "outputHashing": "all",
+              "serviceWorker": "ngsw-config.json"
             },
             "development": {
               "optimization": false,
