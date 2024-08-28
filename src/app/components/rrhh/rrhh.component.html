@@ -1,7 +1,7 @@
 
 <div *ngIf="clave ==='irco2023'">
 
-<div class="container_manuales">
+<div class="container_rrhh">
 
     <table class="table table-striped">
         <thead>
@@ -9,6 +9,7 @@
             <th scope="col">Identificacion</th>
             <th scope="col">Nombre Manual</th>
             <th scope="col">Fecha Actualizacion</th>
+            <th scope="col">Alias</th>
             <th scope="col">Link</th>
             <th scope="col">Descarga</th>
 
@@ -21,9 +22,9 @@
            <th translate="no" scope="row">{{manual.id}}</th> 
            <td>{{manual.nombre}}</td>
            <td>{{manual.fechaActualizacion}}</td>
+           <td>{{manual.alias}}</td>
            <td><a href={{manual.url}}>{{manual.nombreFichero}}</a></td>
-           <td><a href={{manual.url}} download>Descarga</a></td>
-          
+           <td><a href={{manual.url}} download>Descargar</a></td>          
         </tr>
         
         </tbody>

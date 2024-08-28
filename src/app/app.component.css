@@ -10,14 +10,62 @@
     width: 100%;
 }
 
+
+.container_form{  
+     
+    text-align: center;
+    margin-top:200px
+
+}
+
+.container_elements {
+
+    text-align: center;
+    width:20%;
+    margin:auto;
+    margin-top:40px
+}
+
+.textosH2{
+
+    font-size: 28px;
+    font-weight: 500;
+
+}
+
+#boton_login {
+    width:10%
+}
+
+
 @media (max-width: 600px) {
 
-    .container_buttons {
-        width: 150%;
+    .container_form{  
+     
+        text-align: left;
+        margin-left:40px;
+        margin-top:200px
+    
     }
 
-    .header_main {
-        width: 150%;
+    .container_elements {
+
+        text-align: left;
+        width:30%;
+        margin-left: 120px;
+        margin-top:40px
+    }
+
+    #boton_login {
+        margin-left: 120px;
+        width: 30%;
+    }
+
+    .textosH2{
+
+        font-size: 20px;
+        font-weight: 500;
+    
     }
 
 

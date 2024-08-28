@@ -121,10 +121,85 @@
                     "fechaActualizacion":"22/05/2024",
                     "url":"../assets/registros/IT/Registro_Violacion_de_Seguridad.pdf",
                     "nombreFichero":"Registro_Violacion_de_Seguridad.pdf"
+                },
+                {
+
+                    "id":"IT-REG-06",
+                    "nombre": "Registro Entrega Equipos y Passwords",
+                    "seccion":"Registros IT",
+                    "alias":"Entrega Inicial equipos y passwords",
+                    "fechaActualizacion":"22/05/2024",
+                    "url":"../assets/registros/IT/Registro_Entrega_Equipos_Passwords.pdf",
+                    "nombreFichero":"Registro_Entrega_Equipos_Passwords.pdf"
                 }
 
              ]
 
+        },
+        {
+        
+            "nombre":"registros_rrhh",
+            "items" : [
+
+               {
+
+               "id":"RR.HH-REG-01",
+               "nombre": "Registro OFF-Boarding",
+               "seccion":"Registros RR.HH.",
+               "alias":"Registro Baja Empleado",
+               "fechaActualizacion":"22/05/2024",
+               "url":"../assets/registros/RR.HH/Off-Boarding.pdf",
+               "nombreFichero":"Off-Boarding.pdf"
+               },
+               {
+
+                "id":"RR.HH-REG-02",
+                "nombre": "Hoja de Gastos Personales",
+                "seccion":"Registros RR.HH.",
+                "alias":"Hoja de gasto",
+                "fechaActualizacion":"22/05/2024",
+                "url":"../assets/registros/RR.HH/Hoja_de_Gastos.xlsx",
+                "nombreFichero":"Hoja_de_Gastos.xlsx"
+                }
+            ]
+        },
+        {
+        
+            "nombre":"registros_comercial",
+            "items" : [
+
+               {
+
+               "id":"COM-REG-01",
+               "nombre": "Cotizador",
+               "seccion":"Registros Comercial",
+               "alias":"Cotizador 24/25",
+               "fechaActualizacion":"22/05/2024",
+               "url":"../assets/registros/COMERCIAL/V14_AAOriginal.xlsm",
+               "nombreFichero":"V14_AAOriginal.xlsm"
+               },
+
+               {
+
+                "id":"COM-REG-02",
+                "nombre": "Formulario Alta cliente",
+                "seccion":"Registros Comercial",
+                "alias":"Para nuevos clientes",
+                "fechaActualizacion":"22/05/2024",
+                "url":"../assets/registros/COMERCIAL/Alta_Cliente.xlsm",
+                "nombreFichero":"Alta_Cliente.xlsm"
+                },
+                {
+
+                "id":"COM-REG-03",
+                "nombre": "F.PR.02.00 Toma de Datos",
+                "seccion":"Registros Comercial",
+                "alias":"Toma de datos inicial",
+                "fechaActualizacion":"21/03/2023",
+                "url":"../assets/registros/COMERCIAL/Ficha_toma_de_datos.docx",
+                "nombreFichero":"Ficha_toma_de_datos.docx"
+                }
+            ]
         }
 
     ]

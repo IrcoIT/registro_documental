@@ -2,31 +2,36 @@ import { Component } from '@angular/core';
 import { LlamadasService } from '../../services/llamadas.service';
 import { documento } from '../../models/instruccionDTO';
 
-import  data from '../../../assets/documentos.json';
+import  data from '../../../assets/documentos.json'; //lee el json
 import { CommonModule } from '@angular/common';
+import { ButtonsComponent } from "../buttons/buttons.component";
 
 
 @Component({
   selector: 'app-registros-it',
   standalone: true,
-  imports: [CommonModule],
+  imports: [CommonModule, ButtonsComponent],
   templateUrl: './registros-it.component.html',
   styleUrl: './registros-it.component.css'
 })
 export class RegistrosITComponent {
 
   manuales: any[]=data.documentos[1].items;    
-  
+  clave:string
   data:documento[]
  
 
   constructor(private http: LlamadasService) {}
 
   ngOnInit():void {    
-    
-   console.log(this.manuales)
 
-        
+    try {
+      this.clave = localStorage.getItem("clave")
+      console.log("la clave en rrhh es:", this.clave)
+     } catch (error) {
+       console.log(error.message)
+     }
+                
 }
 
 }

@@ -4,11 +4,17 @@ import { InstruccionesComponent } from './components/instrucciones/instrucciones
 import { HomeComponent } from './components/home/home.component';
 import { ManualesComponent } from './components/manuales/manuales.component';
 import { RegistrosITComponent } from './components/registros-it/registros-it.component';
+import { RrhhComponent } from './components/rrhh/rrhh.component';
+import { ComercialComponent } from './components/comercial/comercial.component';
+
 
 export const routes: Routes = [
 
+       
+
+
     {
-        path:'',
+        path:'home',
         component: HomeComponent, 
     },
 
@@ -30,7 +36,15 @@ export const routes: Routes = [
     {
         path:'registros-it',
         component: RegistrosITComponent
-    }
+    },
+
+    {   path:'rrhh',
+        component: RrhhComponent
+    },
+
+    {   path:'comercial',
+        component: ComercialComponent
+    },
 
 
 

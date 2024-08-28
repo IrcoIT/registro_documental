@@ -1,12 +1,37 @@
 
-<div class="header_main">
-  <h2>REPOSITORIO DOCUMENTAL</h2>
-</div>  
+<div *ngIf="showButton">
 
-<div class="container_buttons">
+  <div class="header_main">
+    <h2>REPOSITORIO DOCUMENTAL</h2>
+  </div>   
 
-  <app-buttons></app-buttons>
+  <app-buttons></app-buttons> <!--aqui poner los imput-->
 
+</div>
+
+
+<div *ngIf="!showButton" class="container_form">
+  <p class="textosH2">INTRODUZCA LA CONTRASEÑA PARA ACCEDER</p>
+  <form #loginForm="ngForm" (ngSubmit)="checkLogin()">
+
+      <div class="container_elements">
+         
+          <input
+              class="form-control"
+              type="password"
+              name="password"
+              [(ngModel)]="user.password"
+              #password="ngModel"
+              required
+              placeholder="Introduzca el password"/>
+      </div>
+      <div>
+          <button class="btn btn-primary" id="boton_login" type="submit" style="margin-top:30px;">Entrar</button>
+      </div>
+
+      <p style="color:red">{{message}}</p>
+
+  </form>
 </div>
 
 <router-outlet />
