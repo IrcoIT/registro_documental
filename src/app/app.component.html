@@ -5,13 +5,14 @@
     <h2>REPOSITORIO DOCUMENTAL</h2>
   </div>   
 
-  <app-buttons></app-buttons> <!--aqui poner los imput-->
+  <app-buttons></app-buttons> 
 
 </div>
 
 
 <div *ngIf="!showButton" class="container_form">
-  <p class="textosH2">INTRODUZCA LA CONTRASEÑA PARA ACCEDER</p>
+  <img src="assets/images/logo_irco.png" alt="logo de Irco" width="200" height="150">
+    <p class="textosH2">INTRODUZCA LA CONTRASEÑA PARA ACCEDER</p>
   <form #loginForm="ngForm" (ngSubmit)="checkLogin()">
 
       <div class="container_elements">
