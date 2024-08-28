@@ -38,32 +38,30 @@
 }
 
 
-@media (max-width: 600px) {
+@media (max-width: 320px) {
 
     .container_form{  
      
-        text-align: left;
-        margin-left:40px;
+        text-align: center;       
         margin-top:200px
     
     }
 
     .container_elements {
 
-        text-align: left;
-        width:30%;
-        margin-left: 120px;
+        text-align: center;
+        width:30%;   
         margin-top:40px
     }
 
     #boton_login {
-        margin-left: 120px;
+        
         width: 30%;
     }
 
     .textosH2{
 
-        font-size: 20px;
+        font-size: 16px;
         font-weight: 500;
     
     }
