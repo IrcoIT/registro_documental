@@ -4,6 +4,7 @@
     
 }
 
+
 #boton1:focus{
 
     background-color:rgb(218, 10, 114)
@@ -29,4 +30,17 @@
     background-color:rgb(218, 10, 114)
 }
 
+@media (max-width: 500px) {
 
+    .container_buttons {
+        margin: 10px 3px 10px 3px
+
+    }
+
+    #boton1, #boton2, #boton3, #boton4, #boton5, #boton6 {
+        width:90%;
+        margin-bottom: 5px;
+    }
+
+
+}
