@@ -38,7 +38,7 @@
 }
 
 
-@media (max-width: 320px) {
+@media (max-width: 500px) {
 
     .container_form{  
      
@@ -50,7 +50,7 @@
     .container_elements {
 
         text-align: center;
-        width:30%;   
+        width:40%;   
         margin-top:40px
     }
 
