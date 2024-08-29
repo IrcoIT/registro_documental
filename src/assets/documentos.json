@@ -127,13 +127,11 @@
                     "id":"IT-REG-06",
                     "nombre": "Registro Entrega Equipos y Passwords",
                     "seccion":"Registros IT",
-                    "alias":"Entrega Inicial equipos y passwords",
+                    "alias":"Entrega de equipos y passwords",
                     "fechaActualizacion":"22/05/2024",
                     "url":"../assets/registros/IT/Registro_Entrega_Equipos_Passwords.docx",
                     "nombreFichero":"Registro_Entrega_Equipos_Passwords.docx"
-                }
-
-           
+                }           
 
              ]
 
@@ -200,7 +198,18 @@
                 "fechaActualizacion":"21/03/2023",
                 "url":"../assets/registros/COMERCIAL/Ficha_toma_de_datos.docx",
                 "nombreFichero":"Ficha_toma_de_datos.docx"
-                }
+                },
+
+                {
+
+                    "id":"COM-REG-04",
+                    "nombre": "Listado Colegios Comunidad Valenciana",
+                    "seccion":"Registros Comercial",
+                    "alias":"Cole, Telefono, mail, localidad",
+                    "fechaActualizacion":"29/08/2024",
+                    "url":"../assets/registros/COMERCIAL/Listado_Colegios.xlsx",
+                    "nombreFichero":"Listado_Colegios.xlsx"
+                    }
             ]
         }
 
