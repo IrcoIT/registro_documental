@@ -129,9 +129,11 @@
                     "seccion":"Registros IT",
                     "alias":"Entrega Inicial equipos y passwords",
                     "fechaActualizacion":"22/05/2024",
-                    "url":"../assets/registros/IT/Registro_Entrega_Equipos_Passwords.pdf",
-                    "nombreFichero":"Registro_Entrega_Equipos_Passwords.pdf"
+                    "url":"../assets/registros/IT/Registro_Entrega_Equipos_Passwords.docx",
+                    "nombreFichero":"Registro_Entrega_Equipos_Passwords.docx"
                 }
+
+           
 
              ]
 
