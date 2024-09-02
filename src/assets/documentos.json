@@ -70,7 +70,40 @@
                     "url":"https://youtu.be/FIxRWfizqWw",
                     "nombreFichero":"Video Appetece Padres"
 
+                },
+
+                {   
+                    "id":"IT-APP-03",
+                    "nombre": "Instrucciones 3 pasos APP Familias",
+                    "seccion":"Appetece",
+                    "alias":"Instrucciones iniciales APP",
+                    "fechaActualizacion":"10/07/2024",
+                    "url":"../assets/manuales/Instrucciones_3_pasos_APP_familias.pdf",
+                    "nombreFichero":"Instrucciones_3_pasos_APP_familias.pdf"
+
+                },
+                {   
+                    "id":"IT-APP-04",
+                    "nombre": "Instrucciones largas APP Familias",
+                    "seccion":"Appetece",
+                    "alias":"Instrucciones largas iniciales APP",
+                    "fechaActualizacion":"10/07/2024",
+                    "url":"../assets/manuales/Instrucciones_largas_APP_familias.pdf",
+                    "nombreFichero":"Instrucciones_largas_APP_familias.pdf"
+
+                },
+                {   
+                    "id":"IT-APP-05",
+                    "nombre": "Plantilla comunicacion Codigo APPetece",
+                    "seccion":"Appetece",
+                    "alias":"Comunicacion inicial a familias codigo APP",
+                    "fechaActualizacion":"10/07/2024",
+                    "url":"../assets/manuales/Plantilla_Comunicacion_Codigo_APP.pdf",
+                    "nombreFichero":"Plantilla_Comunicacion_Codigo_APP.pdf"
+
                 }
+                            
+            
             ] 
                  
         },
