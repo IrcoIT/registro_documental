@@ -16,6 +16,17 @@
                     "nombreFichero":"Manual_Modulo_Cocina.pdf"
 
                 },
+                {
+
+                    "id":"IT-ODOO-02",
+                    "nombre": "Manual Modulo Cocina para Compras",
+                    "seccion":"Odoo IT",
+                    "alias":"Modulo cocina para compras",
+                    "fechaActualizacion":"01/09/2024",
+                    "url":"../assets/manuales/Manual_Modulo_Cocina_Compras.pdf",
+                    "nombreFichero":"Manual_Modulo_Cocina_Compras.pdf"
+                }             
+
 
                 {  
                      "id":"IT-OFFICE-01",
@@ -131,8 +142,7 @@
                     "fechaActualizacion":"22/05/2024",
                     "url":"../assets/registros/IT/Registro_Entrega_Equipos_Passwords.docx",
                     "nombreFichero":"Registro_Entrega_Equipos_Passwords.docx"
-                }           
-
+                }
              ]
 
         },
