@@ -170,7 +170,18 @@
                 "fechaActualizacion":"22/05/2024",
                 "url":"../assets/registros/RR.HH/Hoja_de_Gastos.xlsx",
                 "nombreFichero":"Hoja_de_Gastos.xlsx"
-                }
+                },
+                {
+
+                    "id":"RR.HH-REG-03",
+                    "nombre": "Hoja Peticion de Vacaciones",
+                    "seccion":"Registros RR.HH.",
+                    "alias":"Peticion de vacaciones",
+                    "fechaActualizacion":"22/05/2024",
+                    "url":"../assets/registros/RR.HH/Registro_peticion_Vacaciones.docx",
+                    "nombreFichero":"Registro_peticion_Vacaciones.docx"
+                    }
+                
             ]
         },
         {
