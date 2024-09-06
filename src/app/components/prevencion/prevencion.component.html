@@ -1,0 +1,35 @@
+<div *ngIf="clave ==='prevencion14'">
+    
+    <div class="container_prevencion">
+    
+        <table class="table table-striped">
+            <thead>
+            <tr>
+                <th scope="col">Identificacion</th>
+                <th scope="col">Nombre Manual</th>
+                <th scope="col">Fecha Actualizacion</th>
+                <th scope="col">Alias</th>
+                <th scope="col">Link</th>
+                <th scope="col">Descarga</th>
+    
+            </tr>
+            </thead>
+            <tbody>
+                
+            <tr *ngFor="let manual of manuales">
+               
+               <th translate="no" scope="row">{{manual.id}}</th> 
+               <td>{{manual.nombre}}</td>
+               <td>{{manual.fechaActualizacion}}</td>
+               <td>{{manual.alias}}</td>
+               <td><a href={{manual.url}}>{{manual.nombreFichero}}</a></td>
+               <td><a href={{manual.url}} download>Descargar</a></td>          
+            </tr>
+            
+            </tbody>
+        </table>
+    
+    </div>   
+  
+</div>
+

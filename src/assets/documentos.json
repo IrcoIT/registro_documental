@@ -284,6 +284,24 @@
                     "nombreFichero":"Listado_Colegios_CV.xlsx"
                     }
             ]
+        }, {
+        
+            "nombre":"prevencion",
+            "items" : [
+
+               {
+
+               "id":"COM-REG-01",
+               "nombre": "Cotizador",
+               "seccion":"Registros Comercial",
+               "alias":"Cotizador 24/25",
+               "fechaActualizacion":"22/05/2024",
+               "url":"../assets/registros/COMERCIAL/V14_AAOriginal.xlsm",
+               "nombreFichero":"V14_AAOriginal.xlsm"
+               }
+
+              
+            ]
         }
 
     ]

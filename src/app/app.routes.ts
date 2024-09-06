@@ -6,11 +6,10 @@ import { ManualesComponent } from './components/manuales/manuales.component';
 import { RegistrosITComponent } from './components/registros-it/registros-it.component';
 import { RrhhComponent } from './components/rrhh/rrhh.component';
 import { ComercialComponent } from './components/comercial/comercial.component';
+import { PrevencionComponent } from './components/prevencion/prevencion.component';
 
 
-export const routes: Routes = [
-
-       
+export const routes: Routes = [       
 
 
     {
@@ -46,7 +45,9 @@ export const routes: Routes = [
         component: ComercialComponent
     },
 
-
-
+    {
+        path:'prevencion',
+        component:PrevencionComponent
+    }
 
 ];

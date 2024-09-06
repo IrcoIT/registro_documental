@@ -4,18 +4,17 @@ import { documento } from '../../models/instruccionDTO';
 import  data from '../../../assets/documentos.json';
 import { CommonModule } from '@angular/common';
 
-
 @Component({
-  selector: 'app-buttons',
+  selector: 'app-prevencion',
   standalone: true,
-  imports: [RouterLink, CommonModule],
-  templateUrl: './buttons.component.html',
-  styleUrl: './buttons.component.css'
+  imports: [CommonModule, RouterLink],
+  templateUrl: './prevencion.component.html',
+  styleUrl: './prevencion.component.css'
 })
-export class ButtonsComponent {
+export class PrevencionComponent {
 
-
-  manuales: any[]=data.documentos[0].items;    
+  
+  manuales: any[]=data.documentos[4].items;    
   clave:string
   data:documento[]
 
@@ -25,11 +24,13 @@ export class ButtonsComponent {
 
     try {
       this.clave = localStorage.getItem("clave")
+      console.log(this.manuales)
       
      } catch (error) {
        console.log(error.message)
      }
                 
 }
+
 
 }

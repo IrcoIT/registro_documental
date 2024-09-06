@@ -47,12 +47,12 @@ export class AppComponent {
 
 
 
-    if (this.user.password=="irco2023") {
+    if (this.user.password=="irco2023" || this.user.password=="prevencion14" ) {
 
       this.showButton=!this.showButton 
 
       try {
-        localStorage.setItem("clave", "irco2023")
+        localStorage.setItem("clave", this.user.password)
       } catch (error) {
         console.log(error.message)
       }
