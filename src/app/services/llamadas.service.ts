@@ -30,6 +30,20 @@ export class LlamadasService {
 
   }
 
+  //llamada servicio para subir ficheros
+  uploadFile(file: Blob): Observable<any> {
+    
+    const form = new FormData();
+    form.append('file', file);
+    return this.http.post(`https://github.com/IrcoIT/registro_documental/tree/main/src/assets`, form, {
+      headers: {
+        'Content-type': 'multipart/form-data'
+      }
+    });
+  }
+
+
+
 
 
 
