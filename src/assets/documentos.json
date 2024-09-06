@@ -111,7 +111,17 @@
                     "url":"../assets/manuales/Instrucciones_APP_pedidos_catering.pdf",
                     "nombreFichero":"Instrucciones_APP_pedidos_catering.pdf"
 
-                }                              
+                },
+                {   
+                    "id":"IT-APP_EMPRESAS-01",
+                    "nombre": "APP pedidos Empresas",
+                    "seccion":"Appetece",
+                    "alias":"Instrucciones para los usuarios de EMPRESA",
+                    "fechaActualizacion":"06/09/2024",
+                    "url":"../assets/manuales/APP_Empresas_Pedidos.pdf",
+                    "nombreFichero":"APP_Empresas_Pedidos.pdf"
+
+                }
             
             ] 
                  
