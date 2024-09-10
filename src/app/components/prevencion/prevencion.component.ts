@@ -8,12 +8,13 @@ import { Observable } from 'rxjs';
 import { LlamadasService } from '../../services/llamadas.service';
 
 @Component({
+  
   selector: 'app-prevencion',
   standalone: true,
-
   imports: [CommonModule, RouterLink],
   templateUrl: './prevencion.component.html',
   styleUrl: './prevencion.component.css'
+
 })
 export class PrevencionComponent {
 
