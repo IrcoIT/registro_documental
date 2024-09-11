@@ -291,14 +291,91 @@
 
                {
 
-               "id":"COM-REG-01",
-               "nombre": "Cotizador",
-               "seccion":"Registros Comercial",
-               "alias":"Cotizador 24/25",
-               "fechaActualizacion":"22/05/2024",
-               "url":"../assets/registros/COMERCIAL/V14_AAOriginal.xlsm",
-               "nombreFichero":"V14_AAOriginal.xlsm"
-               }
+               "id":"RR.HH.-REG-01",
+               "nombre": "Plan de Prevencion",
+               "seccion":"Prevencion",
+               "alias":"Plan de prevencion General",
+               "fechaActualizacion":"11/09/2024",
+               "url":"../assets/registros/RR.HH/01_Plan_de_Prevencion.pdf",
+               "nombreFichero":"01_Plan_de_Prevencion.pdf"
+               },
+               {
+
+                "id":"RR.HH.-REG-02",
+                "nombre": "Evaluación Riesgos Ayuda. Cocina",
+                "seccion":"Prevencion",
+                "alias":"Para Cocineros y Ayudantes",
+                "fechaActualizacion":"11/09/2024",
+                "url":"../assets/registros/RR.HH/02_01_EVR_Cocinero_Ayte_Cocina.pdf",
+                "nombreFichero":"02_01_EVR_Cocinero_Ayte_Cocina.pdf"
+                
+               },
+               {
+
+                "id":"RR.HH.-REG-03",
+                "nombre": "Evaluación Riesgos Aux. Cocina",
+                "seccion":"Prevencion",
+                "alias":"Para Auxiliares de cocina",
+                "fechaActualizacion":"11/09/2024",
+                "url":"../assets/registros/RR.HH/02_02_EVR_Auxiliar_Cocina.pdf",
+                "nombreFichero":"02_02_EVR_Auxiliar_Cocina.pdf"
+                },
+                
+               {
+
+                "id":"RR.HH.-REG-04",
+                "nombre": "Evaluación Riesgos Monitor",
+                "seccion":"Prevencion",
+                "alias":"Para Monitores",
+                "fechaActualizacion":"11/09/2024",
+                "url":"../assets/registros/RR.HH/02_03_EVR_Monitor.pdf",
+                "nombreFichero":"02_03_EVR_Monitor.pdf"
+                },
+                {
+
+                "id":"RR.HH.-REG-05",
+                "nombre": "Evaluación Riesgos Camarero",
+                "seccion":"Prevencion",
+                "alias":"Para Camareros",
+                "fechaActualizacion":"11/09/2024",
+                "url":"../assets/registros/RR.HH/02_04_EVR_Camarero.pdf",
+                "nombreFichero":"02_04_EVR_Camarero.pdf"
+                },
+                {
+
+                "id":"RR.HH.-REG-06",
+                "nombre": "Fichas Prevención de Equipos de Trabajo",
+                "seccion":"Prevencion",
+                "alias":"Todos los Equipos de Trabajo",
+                "fechaActualizacion":"11/09/2024",
+                "url":"../assets/registros/RR.HH/03_Equipos_Trabajo.pdf",
+                "nombreFichero":"03_Equipos_Trabajo.pdf"
+                },
+
+                {
+
+                "id":"RR.HH.-REG-07",
+                "nombre": "Fichas de Seguridad de Producto de Limpieza",
+                "seccion":"Prevencion",
+                "alias":"Todos los Productos de Limpieza",
+                "fechaActualizacion":"11/09/2024",
+                "url":"../assets/registros/RR.HH/04_FDS_Productos_Limpieza.pdf",
+                "nombreFichero":"04_FDS_Productos_Limpieza.pdf"
+                },
+
+                {
+
+                "id":"RR.HH.-REG-08",
+                "nombre": "Normas y Medidas de Emergencias Evacuación",
+                "seccion":"Prevencion",
+                "alias":"Normas Básicas de Emergencias",
+                "fechaActualizacion":"11/09/2024",
+                "url":"../assets/registros/RR.HH/05_Medidas_Emergencias_Evacuación.pdf",
+                "nombreFichero":"05_Medidas_Emergencias_Evacuación.pdf"
+                }
+        
+        
+
 
               
             ]

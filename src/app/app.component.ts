@@ -47,7 +47,7 @@ export class AppComponent {
 
 
 
-    if (this.user.password=="irco2023" || this.user.password=="prevencion14" ) {
+    if (this.user.password=="irco2023" || this.user.password=="prevencion00" ) {
 
       this.showButton=!this.showButton 
 
