@@ -25,7 +25,17 @@
                     "fechaActualizacion":"01/09/2024",
                     "url":"../assets/manuales/Manual_Modulo_Cocina_compras.pdf",
                     "nombreFichero":"Manual_Modulo_Cocina_compras.pdf"
-                },            
+                },    
+                {
+
+                    "id":"IT-ODOO-03",
+                    "nombre": "Manual Modulo Cocina para COCINERO",
+                    "seccion":"Odoo IT",
+                    "alias":"Optimizado para cocineros",
+                    "fechaActualizacion":"17/09/2024",
+                    "url":"../assets/manuales/Manual_Modulo_Cocina_COCINERO.pdf",
+                    "nombreFichero":"Manual_Modulo_Cocina_COCINERO.pdf"
+                },          
 
 
                 {  
