@@ -235,14 +235,24 @@
                 },
                 {
 
-                    "id":"RR.HH-REG-03",
-                    "nombre": "Hoja Peticion de Vacaciones",
-                    "seccion":"Registros RR.HH.",
-                    "alias":"Peticion de vacaciones",
-                    "fechaActualizacion":"22/05/2024",
-                    "url":"../assets/registros/RR.HH/Registro_peticion_Vacaciones.docx",
-                    "nombreFichero":"Registro_peticion_Vacaciones.docx"
-                    }
+                "id":"RR.HH-REG-03",
+                "nombre": "Hoja Peticion de Vacaciones",
+                "seccion":"Registros RR.HH.",
+                "alias":"Peticion de vacaciones",
+                "fechaActualizacion":"22/05/2024",
+                "url":"../assets/registros/RR.HH/Registro_peticion_Vacaciones.docx",
+                "nombreFichero":"Registro_peticion_Vacaciones.docx"
+                },
+                {
+
+                "id":"RR.HH-REG-04",
+                "nombre": "Fichero para Gestionar las Sustituciones",
+                "seccion":"Registros RR.HH.",
+                "alias":"Gestion de Sustituciones",
+                "fechaActualizacion":"17/10/2024",
+                "url":"../assets/registros/RR.HH/SUSTITUCIONES.xlsm",
+                "nombreFichero":"SUSTITUCIONES.xlsm"
+                }
                 
             ]
         },
