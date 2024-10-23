@@ -9,6 +9,7 @@ import { FormsModule} from '@angular/forms'
 import { UserDto } from './models/instruccionDTO';
 import { HomeComponent } from "./components/home/home.component";
 import { catchError } from 'rxjs';
+import { SupervisoresComponent } from './components/supervisores/supervisores.component';
 
 
 
@@ -16,7 +17,7 @@ import { catchError } from 'rxjs';
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [RouterOutlet, RouterModule, ButtonsComponent, InstruccionesComponent, RegistrosComponent, CommonModule, FormsModule, HomeComponent],
+  imports: [RouterOutlet, RouterModule, ButtonsComponent, InstruccionesComponent, RegistrosComponent, CommonModule, FormsModule, HomeComponent, SupervisoresComponent],
 
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'

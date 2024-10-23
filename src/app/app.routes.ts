@@ -7,6 +7,7 @@ import { RegistrosITComponent } from './components/registros-it/registros-it.com
 import { RrhhComponent } from './components/rrhh/rrhh.component';
 import { ComercialComponent } from './components/comercial/comercial.component';
 import { PrevencionComponent } from './components/prevencion/prevencion.component';
+import { SupervisoresComponent } from './components/supervisores/supervisores.component';
 
 
 export const routes: Routes = [       
@@ -48,6 +49,11 @@ export const routes: Routes = [
     {
         path:'prevencion',
         component:PrevencionComponent
+    },
+
+    {
+        path:'supervisores',
+        component:SupervisoresComponent
     }
 
 ];

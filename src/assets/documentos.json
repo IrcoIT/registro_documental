@@ -393,9 +393,35 @@
                 "url":"../assets/registros/RR.HH/05_Medidas_Emergencias_Evacuación.pdf",
                 "nombreFichero":"05_Medidas_Emergencias_Evacuación.pdf"
                 }
-        
-        
+            ]
+        },
 
+                {
+            
+                "nombre":"supervisores",
+                "items" : [
+    
+                    {
+    
+                    "id":"SUP-REG-01",
+                    "nombre": "Listado Claves Portal Empleado",
+                    "seccion":"supervisores",
+                    "alias":"Nombre-Clave-Colegio",
+                    "fechaActualizacion":"23/10/2024",
+                    "url":"../assets/registros/SUPERVISORES/Listado_Empleados.xlsx",
+                    "nombreFichero":"Listado_Empleados.xlsx"
+                    },
+                    {
+    
+                    "id":"SUP-REG-02",
+                    "nombre": "Listado Claves Portal Empleado",
+                    "seccion":"supervisores",
+                    "alias":"Nombre-Clave-Colegio",
+                    "fechaActualizacion":"23/10/2024",
+                    "url":"../assets/registros/SUPERVISORES/Listado_Empleados.pdf",
+                    "nombreFichero":"Listado_Empleados.pdf"
+                    }              
+              
 
               
             ]
