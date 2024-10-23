@@ -252,6 +252,16 @@
                 "fechaActualizacion":"17/10/2024",
                 "url":"../assets/registros/RR.HH/SUSTITUCIONES.xlsm",
                 "nombreFichero":"SUSTITUCIONES.xlsm"
+                },
+                {
+
+                "id":"RR.HH-REG-05",
+                "nombre": "Carta inicial proteccion y confidencialidad datos ",
+                "seccion":"Registros RR.HH.",
+                "alias":"Proteccion Datos",
+                "fechaActualizacion":"17/10/2024",
+                "url":"../assets/registros/RR.HH/Carta_Inicial_Proteccion_Confidencialidad_datos.pdf",
+                "nombreFichero":"Carta_Inicial_Proteccion_Confidencialidad_datos.pdf"
                 }
                 
             ]
