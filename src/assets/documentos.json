@@ -60,6 +60,18 @@
                     "nombreFichero":"Portal_del_Empleado.pdf"
 
                 },
+                                
+
+                {   
+                    "id":"IT-PORTAL-02",
+                    "nombre": "Instrucciones doble Autenticación del Portal",
+                    "seccion":"Portal del Empleado",
+                    "alias":"Doble Autenticación",
+                    "fechaActualizacion":"24/10/2024",
+                    "url":"../assets/manuales/Manual_Doble_Autenticacion.pdf",
+                    "nombreFichero":"Manual_Doble_Autenticacion.pdf"
+
+                },
 
                 {   
                     "id":"IT-APP-01",
