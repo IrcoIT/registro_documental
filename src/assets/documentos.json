@@ -5,39 +5,7 @@
         {
             "nombre":"manuales",
             "items": [
-                {
-
-                    "id":"IT-ODOO-01",
-                    "nombre": "Manual Modulo Cocina",
-                    "seccion":"Odoo V12",
-                    "alias":"Manual Modulo Cocina",
-                    "fechaActualizacion":"24/12/2023",
-                    "url":"../assets/manuales/Manual_Modulo_Cocina.pdf",
-                    "nombreFichero":"Manual_Modulo_Cocina.pdf"
-
-                },
-                {
-
-                    "id":"IT-ODOO-02",
-                    "nombre": "Manual Modulo Cocina para Compras",
-                    "seccion":"Odoo IT",
-                    "alias":"Modulo cocina para compras",
-                    "fechaActualizacion":"01/09/2024",
-                    "url":"../assets/manuales/Manual_Modulo_Cocina_compras.pdf",
-                    "nombreFichero":"Manual_Modulo_Cocina_compras.pdf"
-                },    
-                {
-
-                    "id":"IT-ODOO-03",
-                    "nombre": "Manual Modulo Cocina para COCINERO",
-                    "seccion":"Odoo IT",
-                    "alias":"Optimizado para cocineros",
-                    "fechaActualizacion":"17/09/2024",
-                    "url":"../assets/manuales/Manual_Modulo_Cocina_COCINERO.pdf",
-                    "nombreFichero":"Manual_Modulo_Cocina_COCINERO.pdf"
-                },          
-
-
+               
                 {  
                      "id":"IT-OFFICE-01",
                     "nombre": "Manual Poner Firma correo",
@@ -447,7 +415,79 @@
 
               
             ]
-        }
+        },
+
+        {
+    
+        "nombre":"compras",
+        "items" : [
+
+            {
+
+                "id":"CO-ODOO-01",
+                "nombre": "Manual Modulo Cocina",
+                "seccion":"Odoo Compras",
+                "alias":"Manual Modulo Cocina",
+                "fechaActualizacion":"24/12/2023",
+                "url":"../assets/registros/COMPRAS/Manual_Modulo_Cocina.pdf",
+                "nombreFichero":"Manual_Modulo_Cocina.pdf"
+
+            },
+            {
+
+                "id":"CO-ODOO-02",
+                "nombre": "Manual Modulo Cocina para Compras",
+                "seccion":"Odoo Compras",
+                "alias":"Modulo cocina para compras",
+                "fechaActualizacion":"01/09/2024",
+                "url":"../assets/registros/COMPRAS/Manual_Modulo_Cocina_compras.pdf",
+                "nombreFichero":"Manual_Modulo_Cocina_compras.pdf"
+            },    
+            {
+
+                "id":"CO-ODOO-03",
+                "nombre": "Manual Modulo Cocina para COCINERO",
+                "seccion":"Odoo Compras",
+                "alias":"Optimizado para cocineros",
+                "fechaActualizacion":"17/09/2024",
+                "url":"../assets/registros/COMPRAS/Manual_Modulo_Cocina_COCINERO.pdf",
+                "nombreFichero":"Manual_Modulo_Cocina_COCINERO.pdf"
+            },    
+            {
+
+                "id":"CO-ODOO-04",
+                "nombre": "NOTA TECNICA 1",
+                "seccion":"Odoo Compras",
+                "alias":"Teclado Flotante",
+                "fechaActualizacion":"17/09/2024",
+                "url":"../assets/registros/COMPRAS/Nota_Tecnica_1.pdf",
+                "nombreFichero":"Nota_Tecnica_1.pdf"
+            },    
+            {
+
+                "id":"CO-ODOO-05",
+                "nombre": "NOTA TECNICA 2",
+                "seccion":"Odoo Compras",
+                "alias":"Eliminacion Filas Vacias",
+                "fechaActualizacion":"17/10/2024",
+                "url":"../assets/registros/COMPRAS/Nota_Tecnica_2.pdf",
+                "nombreFichero":"Nota_Tecnica_2.pdf"
+            },    
+            {
+
+                "id":"CO-ODOO-06",
+                "nombre": "NOTA TECNICA 3",
+                "seccion":"Odoo Compras",
+                "alias":"CHATS y Productos",
+                "fechaActualizacion":"31/10/2024",
+                "url":"../assets/registros/COMPRAS/Nota_Tecnica_3.pdf",
+                "nombreFichero":"Nota_Tecnica_3.pdf"
+            }
+           
+
+      
+    ]
+}
 
     ]
 }

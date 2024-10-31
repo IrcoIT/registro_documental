@@ -8,6 +8,7 @@ import { RrhhComponent } from './components/rrhh/rrhh.component';
 import { ComercialComponent } from './components/comercial/comercial.component';
 import { PrevencionComponent } from './components/prevencion/prevencion.component';
 import { SupervisoresComponent } from './components/supervisores/supervisores.component';
+import { ComprasComponent } from './components/compras/compras.component';
 
 
 export const routes: Routes = [       
@@ -54,6 +55,11 @@ export const routes: Routes = [
     {
         path:'supervisores',
         component:SupervisoresComponent
+    },
+
+    {
+        path:'compras',
+        component:ComprasComponent
     }
 
 ];
