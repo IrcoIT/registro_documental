@@ -242,6 +242,16 @@
                 "fechaActualizacion":"17/10/2024",
                 "url":"../assets/registros/RR.HH/Carta_Inicial_Proteccion_Confidencialidad_datos.pdf",
                 "nombreFichero":"Carta_Inicial_Proteccion_Confidencialidad_datos.pdf"
+                },
+                {
+
+                "id":"RR.HH-REG-06",
+                "nombre": "Certificados de Formación ",
+                "seccion":"Registros RR.HH.",
+                "alias":"Carnés de manipulador, Autocontrol, etc",
+                "fechaActualizacion":"08/11/2024",
+                "url":"../assets/registros/RR.HH/certificado_formacion.xlsx",
+                "nombreFichero":"certificados_formacion.xlsx"
                 }
                 
             ]
