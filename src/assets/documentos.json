@@ -111,6 +111,16 @@
                     "url":"../assets/manuales/APP_Empresas_Pedidos.pdf",
                     "nombreFichero":"APP_Empresas_Pedidos.pdf"
 
+                },
+                {   
+                    "id":"IT-ASIENTOS-01",
+                    "nombre": "Instrucciones Asientos Personal",
+                    "seccion":"Appetece",
+                    "alias":"Instrucciones para cargar en Odoo",
+                    "fechaActualizacion":"21/11/2024",
+                    "url":"../assets/manuales/Instrucciones_Manual_Asientos.pdf",
+                    "nombreFichero":"Instrucciones_Manuel_Asientos.pdf"
+
                 }
             
             ] 

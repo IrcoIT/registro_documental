@@ -27,6 +27,7 @@ export class RrhhComponent implements OnInit{
 
     try {
       this.clave = localStorage.getItem("clave")
+      
       console.log("la clave en rrhh es:", this.clave)
      } catch (error) {
        console.log(error.message)
