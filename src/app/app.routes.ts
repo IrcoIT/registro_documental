@@ -9,6 +9,7 @@ import { ComercialComponent } from './components/comercial/comercial.component';
 import { PrevencionComponent } from './components/prevencion/prevencion.component';
 import { SupervisoresComponent } from './components/supervisores/supervisores.component';
 import { ComprasComponent } from './components/compras/compras.component';
+import { FinancieroComponent } from './components/financiero/financiero.component';
 
 
 export const routes: Routes = [       
@@ -60,6 +61,11 @@ export const routes: Routes = [
     {
         path:'compras',
         component:ComprasComponent
+    },
+
+    {
+        path:'financiero',
+        component:FinancieroComponent
     }
 
 ];

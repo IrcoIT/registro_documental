@@ -507,7 +507,29 @@
 
       
     ]
-}
+},
+
+    {
+
+        "nombre":"financiero",
+        "items" : [
+
+            {
+
+                "id":"FI-ODOO-01",
+                "nombre": "Instrucciones Asientos Catering y Transporte",
+                "seccion":"Asientos Financiero",
+                "alias":"Instru. Detalladas",
+                "fechaActualizacion":"25/11/2024",
+                "url":"../assets/registros/FINANCIERO/Instrucciones_Asiente_Catering_Transporte.pdf",
+                "nombreFichero":"Instrucciones_Asiente_Catering_Transporte.pdf"
+
+            } 
+
+                ]   
+        }
+
+
 
     ]
 }
