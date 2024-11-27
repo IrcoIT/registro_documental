@@ -305,14 +305,25 @@
 
                 {
 
-                    "id":"COM-REG-04",
-                    "nombre": "Listado Colegios Comunidad Valenciana",
-                    "seccion":"Registros Comercial",
-                    "alias":"Cole, Telefono, mail, localidad",
-                    "fechaActualizacion":"29/08/2024",
-                    "url":"../assets/registros/COMERCIAL/Listado_Colegios_CV.xlsx",
-                    "nombreFichero":"Listado_Colegios_CV.xlsx"
-                    }
+                "id":"COM-REG-04",
+                "nombre": "Listado Colegios Comunidad Valenciana",
+                "seccion":"Registros Comercial",
+                "alias":"Cole, Telefono, mail, localidad",
+                "fechaActualizacion":"29/08/2024",
+                "url":"../assets/registros/COMERCIAL/Listado_Colegios_CV.xlsx",
+                "nombreFichero":"Listado_Colegios_CV.xlsx"
+                },
+
+                {
+
+                "id":"COM-REG-05",
+                "nombre": "Instruccion Facturacion Ipla",
+                "seccion":"Registros Comercial",
+                "alias":"Para extraer datos",
+                "fechaActualizacion":"27/11/2024",
+                "url":"../assets/registros/COMERCIAL/Instrucciones_Facturacion_Ipla.pdf",
+                "nombreFichero":"Instrucciones_Facturacion_Ipla.pdf"
+                }
             ]
         }, {
         
