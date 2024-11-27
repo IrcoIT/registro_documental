@@ -521,8 +521,19 @@
                 "seccion":"Asientos Financiero",
                 "alias":"Instru. Detalladas",
                 "fechaActualizacion":"25/11/2024",
-                "url":"../assets/registros/FINANCIERO/Instrucciones_Asiente_Catering_Transporte.pdf",
+                "url":"../assets/registros/FINANCIERO/Instrucciones_Asiento_Catering_Transporte.pdf",
                 "nombreFichero":"Instrucciones_Asiente_Catering_Transporte.pdf"
+
+            },
+            {
+
+                "id":"FI-ODOO-02",
+                "nombre": "Instrucciones Asiento Personal" ,
+                "seccion":"Asientos Financieros",
+                "alias":"Instru. Detalladas Personal",
+                "fechaActualizacion":"25/11/2024",
+                "url":"../assets/registros/FINANCIERO/Instrucciones_Asiento_Personal.pdf",
+                "nombreFichero":"Instrucciones_Asiento_Personal.pdf"
 
             } 
 
